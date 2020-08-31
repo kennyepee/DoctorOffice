@@ -6,7 +6,7 @@ public class Main {
 
         String patientName = "Stacey Manson";
         boolean hasInsurance = false;
-        double temp=102;
+        double temp=102.2;
         int numVisits= (int) 5.02;
 
         System.out.println("Patient Details:");
